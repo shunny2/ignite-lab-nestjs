@@ -10,6 +10,12 @@
 
 </br>
 
+<p align="center">
+<a href="https://img.shields.io/github/stars/shunny2/ignite-lab-nestjs?style=social"><img src="https://img.shields.io/github/stars/shunny2/ignite-lab-nestjs?style=social" alt="Repo Stars"/></a>
+<a href="https://img.shields.io/github/forks/shunny2/ignite-lab-nestjs?style=social"><img src="https://img.shields.io/github/forks/shunny2/ignite-lab-nestjs?style=social" alt="Repo Forks"/></a>
+<a href="https://img.shields.io/github/license/shunny2/ignite-lab-nestjs"><img src="https://img.shields.io/github/license/shunny2/ignite-lab-nestjs" alt="License"/></a>
+</p>
+
 ## About Application
 
 A notifications microservice built with [NestJS](https://nestjs.com/) during the [Rocketseat](https://rocketseat.com.br/) Ignite Lab event.
